@@ -4,11 +4,11 @@ adContainer.className = "ad-container";
 
 // Create a link element
 var adLink = document.createElement("a");
-adLink.href = "https://example.com";
+adLink.href = "https://www.google.com";
 
 // Create an image element
 var adImage = document.createElement("img");
-adImage.src = "path/to/your/image.jpg";
+adImage.src = "https://i.ibb.co/88yrXnS/FB-ad.png";
 adImage.className = "ad-image";
 adImage.alt = "Advertisement";
 
