@@ -1,3 +1,9 @@
-.tesl{
-    color:red;
+.ad-container {
+  max-width: 100%;
+  height: auto;
+}
+
+.ad-image {
+  width: 100%;
+  height: auto;
 }
